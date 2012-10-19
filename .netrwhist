@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/etc/grub.d'
+let g:netrw_dirhist_2='/boot/grub'
+let g:netrw_dirhist_3='/etc/default'
+let g:netrw_dirhist_4='/etc/network/if-up.d'
+let g:netrw_dirhist_5='/home/apple/desktop/aircrack-ng-1.1/manpages'
